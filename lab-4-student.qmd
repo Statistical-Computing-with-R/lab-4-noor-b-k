@@ -1,9 +1,10 @@
 ---
 title: "Lab 4: Childcare Costs in California"
-author: "Your name here!"
+author: "Noor Karaki"
 format: html
 editor: source
 embed-resources: true
+code-fold: true
 ---
 
 ## The Data
